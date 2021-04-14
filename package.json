@@ -1,0 +1,7 @@
+{
+  "name": "@cpttimon/id-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "Wojciech Kaczmarzyński",
+  "license": "MIT"
+}
